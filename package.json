@@ -1,0 +1,10 @@
+{
+  "name": "typescript-base-api",
+  "version": "1.0.0",
+  "description": "Typescript API",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Diego Roberto <diegorobertoferreiraleite@hotmail.com>",
+  "license": "MIT",
+  "scripts": {}
+}
